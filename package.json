@@ -1,0 +1,42 @@
+{
+  "name": "onedionys-dom-manipulation-helpers",
+  "version": "1.0.0",
+  "description": "One Dionys (DOM Manipulation Helpers) - Auxiliary functions for manipulating DOM elements such as adding, deleting, or updating elements.",
+  "main": "src/domManipulationHelpers.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onedionys/onedionys-dom-manipulation-helpers.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "dom-manipulation-helpers"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-dom-manipulation-helpers/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-dom-manipulation-helpers#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "jsdom": "^24.0.0",
+    "lodash": "^4.17.21",
+    "onedionys-ajax-wrapper": "^1.0.0",
+    "onedionys-data-storage": "^1.0.0",
+    "onedionys-debounce-throttle-functions": "^1.0.0",
+    "onedionys-promise-utilities": "^1.0.0",
+    "onedionys-validation-library": "^1.0.0"
+  }
+}
