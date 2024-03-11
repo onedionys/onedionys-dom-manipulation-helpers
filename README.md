@@ -52,6 +52,7 @@ toggleClass(element, 'active');
 
 * v1.0.0 : 07 March 2024
 * v1.1.0 : 07 March 2024
+* v1.1.1 : 11 March 2024
 
 ## 🧑 Author
 
