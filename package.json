@@ -1,6 +1,6 @@
 {
   "name": "onedionys-dom-manipulation-helpers",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (DOM Manipulation Helpers) - Auxiliary functions for manipulating DOM elements such as adding, deleting, or updating elements.",
   "main": "src/domManipulationHelpers.js",
   "directories": {
